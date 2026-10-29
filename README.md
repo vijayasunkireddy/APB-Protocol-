@@ -2,7 +2,7 @@
 # APB Protocol Verification
 
 ## Project Overview
-This project focuses on verifying an AMBA Advanced Peripheral Bus (APB) slave using Verilog and a SystemVerilog testbench.
+This project focuses on verifying an AMBA Advanced Peripheral Bus (APB) slave using Verilog-Based testbench.
 
 ## Objectives
 - Understand APB Setup and Access phases.
